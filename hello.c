@@ -1,7 +1,7 @@
 /* File hello.c */
 #include <stdio.h>
 
-#include "message.h"
+#include "hello.h"
 
 main(int argc, char *argv[])
 {
