@@ -1,6 +1,5 @@
 /* File hello.c */
 #include <stdio.h>
-
 #include "hello.h"
 
 int
